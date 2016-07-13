@@ -1,0 +1,6 @@
+com\litmus7\dao\UserDAOImpl.class
+com\litmus7\dao\UserDAO.class
+com\litmus7\model\Member.class
+com\litmus7\mongo\repositories\MemberRepository.class
+com\litmus7\model\User.class
+com\litmus7\controllers\HomeController.class
